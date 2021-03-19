@@ -5,5 +5,7 @@ Plan contains *five* resident districts from which commissioners are elected sta
 ![Georgia County Cartogram](https://s3-us-west-1.amazonaws.com/jonathancervas.com/trash/ga-psc/images/ga_cart.png)
 
 ![Georgia County Cartogram](https://s3-us-west-1.amazonaws.com/jonathancervas.com/trash/ga-psc/images/GA_PSC_contiquity.svg)
+<img src="https://s3-us-west-1.amazonaws.com/jonathancervas.com/trash/ga-psc/images/GA_PSC_contiquity.svg">
 
 ![Georgia County Cartogram](https://s3-us-west-1.amazonaws.com/jonathancervas.com/trash/ga-psc/images/GA_county_contiquity.svg)
+<img src="https://s3-us-west-1.amazonaws.com/jonathancervas.com/trash/ga-psc/images/GA_county_contiquity.svg">
